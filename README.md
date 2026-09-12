@@ -2,7 +2,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
 </p>
 
-<h1 align="center">Hi, I'm Aaron Daniel G</h1>
+<h1 align="center">
+  Hi
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7.gif" width="35">
+  , I'm Aaron Daniel G
+</h1>
 
 <p align="center">
   <b>B.Tech Artificial Intelligence @ Karpagam Academy of Higher Education</b>
@@ -16,20 +20,20 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- B.Tech Artificial Intelligence student at **Karpagam Academy of Higher Education**
-- Interested in **Artificial Intelligence, Machine Learning, NLP, and LLMs**
-- Currently practicing **Data Structures & Algorithms with Java**
-- Developing strong programming foundations with **Python**
-- Exploring practical applications of **Artificial Intelligence**
-- Continuously improving my **problem-solving and software development skills**
+- 🎓 B.Tech Artificial Intelligence student at **Karpagam Academy of Higher Education**
+- 🤖 Interested in **Artificial Intelligence, Machine Learning, NLP, and LLMs**
+- 💻 Currently practicing **Data Structures & Algorithms with Java**
+- 🐍 Developing strong programming foundations with **Python**
+- 🚀 Exploring practical applications of **Artificial Intelligence**
+- 📚 Continuously improving my **problem-solving and software development skills**
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -37,14 +41,14 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### Frontend
+### 🌐 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### Artificial Intelligence
+### 🤖 Artificial Intelligence
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -52,7 +56,7 @@
   <img src="https://img.shields.io/badge/LLMs-5A5A5A?style=for-the-badge&logoColor=white"/>
 </p>
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -62,7 +66,7 @@
 
 ---
 
-## Currently
+## 📌 Currently
 
 | | |
 |---|---|
@@ -74,7 +78,7 @@
 
 ---
 
-## Career Direction
+## 🎯 Career Direction
 
 I am working toward becoming an **AI Engineer** with strong foundations in programming, problem solving, machine learning, and modern AI technologies.
 
@@ -82,7 +86,7 @@ My focus is on combining software development with artificial intelligence to bu
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aarondaniel-g">
@@ -101,5 +105,5 @@ My focus is on combining software development with artificial intelligence to bu
 ---
 
 <p align="center">
-  <i>Learn. Build. Improve.</i>
+  <i>Learn. Build. Improve. 🚀</i>
 </p>
