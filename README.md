@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Daniel G</h1>
 
 <p align="center">
-  <b>B.Tech Artificial Intelligence @ Karpagam Academy of Higher Education</b>
+  <b>B.Tech Artificial Intelligence @ Kahe</b>
 </p>
 
 <p align="center">
