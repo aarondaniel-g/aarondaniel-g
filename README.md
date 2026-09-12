@@ -2,11 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
 </p>
 
-<h1 align="center">
-  Hi
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7.gif" width="35">
-  , I'm Aaron Daniel G
-</h1>
+<h1 align="center">Hi 👋, I'm Aaron Daniel G</h1>
 
 <p align="center">
   <b>B.Tech Artificial Intelligence @ Karpagam Academy of Higher Education</b>
