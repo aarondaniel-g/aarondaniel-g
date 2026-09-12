@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Daniel G</h1>
 
 <p align="center">
-  <b>B.Tech Artificial Intelligence @ Kahe</b>
+  <b>B.Tech Artificial Intelligence @ Karpagam Academy of Higher Education</b>
 </p>
 
 <p align="center">
@@ -18,12 +18,24 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Artificial Intelligence student at **Karpagam Academy of Higher Education**
+- 🎓 B.Tech Artificial Intelligence student at **Karpagam Academy of Higher Education** | **2025–2029**
 - 🤖 Interested in **Artificial Intelligence, Machine Learning, NLP, and LLMs**
 - 💻 Currently practicing **Data Structures & Algorithms with Java**
 - 🐍 Developing strong programming foundations with **Python**
 - 🚀 Exploring practical applications of **Artificial Intelligence**
 - 📚 Continuously improving my **problem-solving and software development skills**
+
+---
+
+## 📌 Currently
+
+| | |
+|---|---|
+| **Learning** | DSA with Java |
+| **Exploring** | Machine Learning, NLP & LLMs |
+| **Building** | AI-powered applications |
+| **Improving** | Problem Solving & Software Development |
+| **Interested In** | Artificial Intelligence & Emerging Technologies |
 
 ---
 
@@ -59,18 +71,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
-
----
-
-## 📌 Currently
-
-| | |
-|---|---|
-| **Learning** | DSA with Java |
-| **Exploring** | Machine Learning, NLP & LLMs |
-| **Building** | AI-powered applications |
-| **Improving** | Problem Solving & Software Development |
-| **Interested In** | Artificial Intelligence & Emerging Technologies |
 
 ---
 
