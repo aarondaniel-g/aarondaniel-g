@@ -85,7 +85,7 @@ My focus is on combining software development with artificial intelligence to bu
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aarondaniel-g">
+  <a href="https://www.linkedin.com/in/aarondaniel-g/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
