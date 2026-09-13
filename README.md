@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="500">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
 </p>
 
 <h1 align="center">Hi 👋, I'm Aaron Daniel G</h1>
 
 <p align="center">
-  <b>B.Tech Artificial Intelligence @ Karpagam Academy of Higher Education</b>
+  <b>B.Tech Artificial Intelligence @ Kahe</b>
 </p>
 
 <p align="center">
