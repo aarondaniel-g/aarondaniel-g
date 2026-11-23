@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/aaron_back_view_live_coding.gif" width="500">
+  <img src="Animated%20Night%20Coding%20Progress.gif" width="500" alt="Aaron coding animation">
 </p>
 
 <h1 align="center">Hi 👋, I'm Aaron Daniel G</h1>
