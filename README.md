@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
 </p>
@@ -5,12 +6,12 @@
 <h1 align="center">Hi 👋, I'm Aaron Daniel G</h1>
 
 <p align="center">
-  <b>B.Tech Artificial Intelligence @ Kahe</b>
+  <b>B.Tech Artificial Intelligence & Data Science @ KAHE</b>
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Aspiring+AI+Engineer;Artificial+Intelligence+Student;Learning+Machine+Learning+%26+LLMs;Building+with+Python;Practicing+DSA+with+Java">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Artificial+Intelligence+Student;Building+with+Python;Developing+Backend+Applications;Practicing+DSA+with+Java">
   </a>
 </p>
 
@@ -18,12 +19,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Artificial Intelligence student at **Karpagam Academy of Higher Education** | **2025–2029**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, NLP, and LLMs**
-- 💻 Currently practicing **Data Structures & Algorithms with Java**
-- 🐍 Developing strong programming foundations with **Python**
-- 🚀 Exploring practical applications of **Artificial Intelligence**
-- 📚 Continuously improving my **problem-solving and software development skills**
+- 🎓 B.Tech Artificial Intelligence & Data Science student at **Karpagam Academy of Higher Education** | **2025–2029**
+- 💻 Aspiring **Software Engineer** passionate about building practical applications
+- 🐍 Developing backend applications using **Python and FastAPI**
+- ⚙️ Learning **Pydantic and SQLAlchemy** for data validation and database management
+- ☕ Practicing **Data Structures & Algorithms with Java**
+- 📚 Continuously improving my problem-solving and software development skills
 
 ---
 
@@ -32,10 +33,10 @@
 | | |
 |---|---|
 | **Learning** | DSA with Java |
-| **Exploring** | Machine Learning, NLP & LLMs |
-| **Building** | AI-powered applications |
+| **Exploring** | FastAPI, Pydantic & SQLAlchemy |
+| **Building** | Backend applications using Python |
 | **Improving** | Problem Solving & Software Development |
-| **Interested In** | Artificial Intelligence & Emerging Technologies |
+| **Interested In** | Backend Development & Software Engineering |
 
 ---
 
@@ -56,12 +57,18 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🤖 Artificial Intelligence
+### ⚙️ Backend Development
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-5A5A5A?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🔧 Tools & Platforms
@@ -76,9 +83,9 @@
 
 ## 🎯 Career Direction
 
-I am working toward becoming an **AI Engineer** with strong foundations in programming, problem solving, machine learning, and modern AI technologies.
+I am working toward becoming a **Software Engineer** with strong foundations in programming, data structures and algorithms, backend development, and database management.
 
-My focus is on combining software development with artificial intelligence to build practical solutions for real-world problems.
+My focus is on building scalable backend applications, writing efficient code, and developing practical software solutions to solve real-world problems.
 
 ---
 
